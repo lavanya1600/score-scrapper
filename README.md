@@ -3,9 +3,9 @@ A Web Scrapper in NodeJS using a Headless Browser to scrape live cricket scores 
 
 TO RUN THE SCRIPT
 
-    First install puppteer:
+    First install puppeteer:
           
-            npm install puppteer
+            npm install puppeteer
             
     Then:
     
